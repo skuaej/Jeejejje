@@ -44,7 +44,7 @@ bot = Client(
     "bot",
     api_id="24411134",
     api_hash="da78963da6eaaf521133e00628434271",
-    bot_token="8326037892:AAH52o13ZCPMMMeSvYehHm_o6M2w3JWtl30"
+    bot_token="8358162910:AAEUX_QLKp0BYlQdDrPUMzvia4hpuxb3E_M"
 )
 
 AUTH_USER = os.environ.get('AUTH_USERS', '8264213982').split(',')
